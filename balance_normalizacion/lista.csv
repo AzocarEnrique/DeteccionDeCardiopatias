@@ -1,0 +1,15 @@
+,categoria,valor_categorico,valor_numerico
+0,Sex,M,1.0
+1,Sex,F,2.0
+2,ChestPainType,ATA,3.0
+3,ChestPainType,NAP,2.0
+4,ChestPainType,ASY,1.0
+5,ChestPainType,TA,4.0
+6,RestingECG,Normal,1.0
+7,RestingECG,ST,2.0
+8,RestingECG,LVH,3.0
+9,ExerciseAngina,N,1.0
+10,ExerciseAngina,Y,2.0
+11,ST_Slope,Up,3.0
+12,ST_Slope,Flat,1.0
+13,ST_Slope,Down,2.0
